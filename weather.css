@@ -1,0 +1,39 @@
+body{
+    background-image: url("img.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-weight: bold;
+}
+
+.top{
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    
+}
+.searchBox{
+border: 4px solid;
+border-radius: 10px;
+height: 3vw;
+padding: 15px;
+margin: 10px;
+
+
+}
+.searchoption{
+    text-align: center;
+    padding: 2%;
+    margin: 1%;
+}
+
+.searchBtn{
+    padding: 6px 10px;
+        background: rgb(255, 255, 255);
+        color: green;
+        border: none;
+        cursor: pointer;
+        border-radius: 4px;
+}
+.searchBtn:hover{
+    background-color: rgb(166, 223, 22);
+}
